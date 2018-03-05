@@ -1,0 +1,13 @@
+{
+  "main.css": "static/css/main.3b8a4b60.css",
+  "main.css.map": "static/css/main.3b8a4b60.css.map",
+  "main.js": "static/js/main.406ce6aa.js",
+  "main.js.map": "static/js/main.406ce6aa.js.map",
+  "static/media/NFC.svg": "static/media/NFC.4fc2342b.svg",
+  "static/media/barcode.png": "static/media/barcode.e043edd1.png",
+  "static/media/nfc.png": "static/media/nfc.bb29b83e.png",
+  "static/media/qrcode.png": "static/media/qrcode.d656f148.png",
+  "static/media/success_nfc.png": "static/media/success_nfc.e81b4684.png",
+  "static/media/success_qr.png": "static/media/success_qr.0725673d.png",
+  "static/media/success_sku.png": "static/media/success_sku.22712bf5.png"
+}
